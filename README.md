@@ -9,6 +9,15 @@ The 2 models selected to test the extreme loss function are the [Graph WaveNet](
 The Graph WaveNet model has been adapted for hydrogeological data. The model is developed with pytorch.
 The GRU auto-encoder is developed with tensorflow-keras.
 
+### Data
+The Milandre resampled data can be found [here](https://www.dropbox.com/scl/fo/9z66v6y2qmxzldoqebr5a/AL9RviqcOfNo-lQHMh7QuGs?rlkey=6yxpkicxyuotd7xb3ts84gjig&st=bvmm1clx&dl=0).
+
+The GRU training and testing data, and trained models ca be found [here](https://www.dropbox.com/scl/fo/n017j7oyze28oncijw5d7/AAB2J1Ae1gL_2noQvkmy9Gk?rlkey=mldim96isi2g6al0km1jh7yql&st=k2ujvo0a&dl=0).
+
+The GWN training and testing data, and trained models ca be found [here](https://www.dropbox.com/scl/fo/p46prhdqv3b562ok2izr2/AI8Ubp1sLs-Fv-GOaEIucfA?rlkey=gu0jmchhg7w9e4v29kzmzmbhy&st=1r12ews7&dl=0).
+
+Ask me for the Yamaska monitoring well data. 
+
 ### Package requirements
 
 - python 3
@@ -18,3 +27,5 @@ The GRU auto-encoder is developed with tensorflow-keras.
 - scipy (1.13.1)
 - torch (2.1.2+cu121)
 - tensorflow (2.14.0)
+
+Need help? If you are a student and need help, contact me at xl3138 (at) princeton (dot) edu. I will be happy to help you.
