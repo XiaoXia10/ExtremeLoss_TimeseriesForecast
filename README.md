@@ -9,6 +9,8 @@ The 2 models selected to test the extreme loss function are the [Graph WaveNet](
 The Graph WaveNet model has been adapted for hydrogeological data. The model is developed with pytorch.
 The GRU auto-encoder is developed with tensorflow-keras.
 
+The MPS DeeSse package can be found [here](https://github.com/randlab/geone).
+
 ### Data
 The Milandre resampled data can be found [here](https://www.dropbox.com/scl/fo/9z66v6y2qmxzldoqebr5a/AL9RviqcOfNo-lQHMh7QuGs?rlkey=6yxpkicxyuotd7xb3ts84gjig&st=bvmm1clx&dl=0).
 
@@ -27,5 +29,5 @@ Ask me for the Yamaska monitoring well data.
 - scipy (1.13.1)
 - torch (2.1.2+cu121)
 - tensorflow (2.14.0)
+- [geone](https://github.com/randlab/geone)(1.2.17)
 
-Need help? If you are a student and need help, contact me at xl3138 (at) princeton (dot) edu. I will be happy to help you.
