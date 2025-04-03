@@ -33,4 +33,3 @@ An example of the MPS code for generating the missing data for the Yamaska data 
 - tensorflow (2.14.0)
 - [geone](https://github.com/randlab/geone)(1.2.17)
 
-Need help? Contact me at xl3138 (at) princeton (dot) edu. 
