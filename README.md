@@ -1,5 +1,5 @@
-# Deep Neural Network Loss Function Development for Forecasting Extreme Events in Time Series Data
-Xiao Xia Liang, Julien Straubhaar, Erwan Gloaguen, Maxime Claprood, and Philippe Renard
+# Forecasting Extreme Events in Time Series: Introducing the Extreme Loss Function for Neural Networks
+Xiao Xia Liang, Julien Straubhaar, Erwan Gloaguen, Dany Lauzon, Maxime Claprood, Philippe Renard, and Reed Maxwell
 
 This paper presents a novel loss function, the extreme loss function, for DNN models solving regression-type problems. 
 The extreme loss function is implemented in pytorch and tensorflow. 
