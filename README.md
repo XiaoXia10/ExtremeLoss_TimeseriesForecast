@@ -1,8 +1,8 @@
 # Forecasting Extreme Events in Time Series: Introducing the Extreme Loss Function for Neural Networks
-Xiao Xia Liang, Julien Straubhaar, Erwan Gloaguen, Dany Lauzon, Maxime Claprood, Philippe Renard, and Reed Maxwell
+Xiao Xia Liang, Dany Lauzon, Julien Straubhaar, Erwan Gloaguen, Maxime Claprood, Philippe Renard, and Reed Maxwell
 
 This paper presents a novel loss function, the extreme loss function, for DNN models solving regression-type problems. 
-The extreme loss function is implemented in pytorch and tensorflow. 
+The extreme loss function can be implemented in pytorch and tensorflow. 
 Here, we tested the extreme loss function to forecast extreme events in karst spring discharges and groundwater heads in monitoring wells. 
 The 2 models selected to test the extreme loss function are the [Graph WaveNet](https://arxiv.org/pdf/1906.00121) ([code](https://github.com/sshleifer/Graph-WaveNet))and the [GRU auto-encoder](https://arxiv.org/pdf/1406.1078).
 
